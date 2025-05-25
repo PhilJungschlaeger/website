@@ -1,13 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/projekte/projekte/","created":"2025-05-25T12:48:37.270+02:00","updated":"2025-05-25T13:31:13.225+02:00"}
+{"dg-publish":true,"permalink":"/projekte/projekte/","tags":["gardenEntry"],"created":"2025-05-25T12:48:37.270+02:00","updated":"2025-05-25T14:47:32.173+02:00"}
 ---
 
 # Projekte
 ## Zukünftige
 - [[Projekte/Emersion - Ariane Kareev (Deutsche Oper Berlin)\|Emersion - Ariane Kareev (Deutsche Oper Berlin)]]
 - [[Projekte/Memories of Snow - Roman Senkl (Schauspiel Essen)\|Memories of Snow - Roman Senkl (Schauspiel Essen)]]
-- [[Projekte/Das Haus - Roman Senkl (Burgtheater Wien)\|Das Haus - Roman Senkl (Burgtheater Wien)]]
+- Smart Aber Herzlich - Nils Corte (Staatstheater Nürnberg)
+- Drill Baby Drill - Airane Kareev (Staatstheater Nürnberg)
+- Solaris - Roman Senkl (Burgtheater Wien)
 ## 2024
+- [[Projekte/Das Haus - Roman Senkl (Burgtheater Wien)\|Das Haus - Roman Senkl (Burgtheater Wien)]]
 - [[Projekte/Der Bau - Nils Corte, Lena Rucker (Staatstheater Nürnberg)\|Der Bau - Nils Corte, Lena Rucker (Staatstheater Nürnberg)]]
 - [[Projekte/Immersion - Ariane Kareev (Deutsche Oper Berlin)\|Immersion - Ariane Kareev (Deutsche Oper Berlin)]]
 - [[Projekte/Coexistence - Phil Jungschlaeger, Ariane Kareev (Tarmac Festival)\|Coexistence - Phil Jungschlaeger, Ariane Kareev (Tarmac Festival)]]
