@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projekte/latenter-raum-latenter-raum-tarmac-festival/"}
+{"dg-publish":true,"permalink":"/projekte/latenter-raum-latenter-raum-tarmac-festival/","created":"2025-05-25T12:48:37.254+02:00","updated":"2025-05-25T13:32:25.118+02:00"}
 ---
 
 ## "Latenter Raum" 

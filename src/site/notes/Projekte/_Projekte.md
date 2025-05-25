@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projekte/projekte/"}
+{"dg-publish":true,"permalink":"/projekte/projekte/","created":"2025-05-25T12:48:37.270+02:00","updated":"2025-05-25T13:31:13.225+02:00"}
 ---
 
 # Projekte

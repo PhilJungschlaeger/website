@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projekte/kontakt-latenter-raum-37-c3-hamburg/"}
+{"dg-publish":true,"permalink":"/projekte/kontakt-latenter-raum-37-c3-hamburg/","created":"2025-05-25T12:48:37.251+02:00","updated":"2025-05-25T13:32:20.883+02:00"}
 ---
 
 ## "KONTAKT ²" 

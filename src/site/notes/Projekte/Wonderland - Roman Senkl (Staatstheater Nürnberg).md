@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projekte/wonderland-roman-senkl-staatstheater-nuernberg/"}
+{"dg-publish":true,"permalink":"/projekte/wonderland-roman-senkl-staatstheater-nuernberg/","created":"2025-05-25T12:48:37.266+02:00","updated":"2025-05-25T13:32:33.565+02:00"}
 ---
 
 ## "Wonderland" 

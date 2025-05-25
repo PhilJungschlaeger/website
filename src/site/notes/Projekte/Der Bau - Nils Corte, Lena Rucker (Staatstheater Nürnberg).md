@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projekte/der-bau-nils-corte-lena-rucker-staatstheater-nuernberg/"}
+{"dg-publish":true,"permalink":"/projekte/der-bau-nils-corte-lena-rucker-staatstheater-nuernberg/","created":"2025-05-25T12:48:37.239+02:00","updated":"2025-05-25T13:31:58.664+02:00"}
 ---
 
 ## "Der Bau" 

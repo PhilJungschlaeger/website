@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technologien/bitwig/"}
+{"dg-publish":true,"permalink":"/technologien/bitwig/","created":"2025-05-25T12:48:37.280+02:00","updated":"2025-05-25T13:32:44.457+02:00"}
 ---
 
 # Bitwig

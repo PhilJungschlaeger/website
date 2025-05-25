@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projekte/deep-redux-latenter-raum-bauhaus-museum-weimar/"}
+{"dg-publish":true,"permalink":"/projekte/deep-redux-latenter-raum-bauhaus-museum-weimar/","created":"2025-05-25T12:48:37.237+02:00","updated":"2025-05-25T13:31:53.535+02:00"}
 ---
 
 # "Deep.Redux"

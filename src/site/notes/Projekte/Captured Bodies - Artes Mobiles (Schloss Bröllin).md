@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projekte/captured-bodies-artes-mobiles-schloss-broellin/"}
+{"dg-publish":true,"permalink":"/projekte/captured-bodies-artes-mobiles-schloss-broellin/","created":"2025-05-25T12:48:37.230+02:00","updated":"2025-05-25T13:31:45.680+02:00"}
 ---
 
 ## "Captured Bodies"

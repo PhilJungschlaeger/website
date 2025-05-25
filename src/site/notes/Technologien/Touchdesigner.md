@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technologien/touchdesigner/"}
+{"dg-publish":true,"permalink":"/technologien/touchdesigner/","created":"2025-05-25T12:48:37.289+02:00","updated":"2025-05-25T13:32:51.491+02:00"}
 ---
 
 # Touchdesigner

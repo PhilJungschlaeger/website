@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technologien/vive-tracking/"}
+{"dg-publish":true,"permalink":"/technologien/vive-tracking/","created":"2025-05-25T12:48:37.303+02:00","updated":"2025-05-25T13:33:00.871+02:00"}
 ---
 
 # Vive Tracking

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projekte/das-haus-roman-senkl-burgtheater-wien/"}
+{"dg-publish":true,"permalink":"/projekte/das-haus-roman-senkl-burgtheater-wien/","created":"2025-05-25T12:48:37.234+02:00","updated":"2025-05-25T13:31:38.936+02:00"}
 ---
 
 ## "Das Haus"

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projekte/immersion-ariane-kareev-deutsche-oper-berlin/"}
+{"dg-publish":true,"permalink":"/projekte/immersion-ariane-kareev-deutsche-oper-berlin/","created":"2025-05-25T12:48:37.247+02:00","updated":"2025-05-25T13:32:15.654+02:00"}
 ---
 
 # "Immersion"

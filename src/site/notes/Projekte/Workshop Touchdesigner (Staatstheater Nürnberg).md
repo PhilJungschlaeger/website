@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projekte/workshop-touchdesigner-staatstheater-nuernberg/"}
+{"dg-publish":true,"permalink":"/projekte/workshop-touchdesigner-staatstheater-nuernberg/","created":"2025-05-25T12:48:37.268+02:00","updated":"2025-05-25T13:32:35.105+02:00"}
 ---
 
 ## Workshop

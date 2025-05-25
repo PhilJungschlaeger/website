@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technologien/unity3-d/"}
+{"dg-publish":true,"permalink":"/technologien/unity3-d/","created":"2025-05-25T12:48:37.293+02:00","updated":"2025-05-25T13:32:54.440+02:00"}
 ---
 
 # Unity3D

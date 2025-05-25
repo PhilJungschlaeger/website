@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projekte/kontakt-latener-raum-kunstbienale-schwabach/"}
+{"dg-publish":true,"permalink":"/projekte/kontakt-latener-raum-kunstbienale-schwabach/","created":"2025-05-25T12:48:37.249+02:00","updated":"2025-05-25T13:32:18.788+02:00"}
 ---
 
 ## "KONTAKT"
