@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/phil-hagen-jungschlaeger/","tags":["gardenEntry"],"created":"2025-05-26T09:37:39.774+02:00","updated":"2025-05-26T10:57:16.701+02:00"}
+{"dg-publish":true,"permalink":"/phil-hagen-jungschlaeger/","tags":["gardenEntry"],"created":"2025-05-26T09:37:39.774+02:00","updated":"2025-05-26T11:15:54.958+02:00"}
 ---
 
 # Phil Hagen Jungschlaeger
 
-Phil Hagen Jungschlaeger ist ein Berliner Digital-Künstler und Creative Technologist an der Schnittstelle von Medienkunst und performativen Formaten. Er studierte Medieninformatik an der Bauhaus-Universität Weimar und entwickelt seitdem künstlerische Arbeiten in hybriden Räumen zwischen analoger und digitaler Realität. Im Zentrum seiner Praxis steht ein experimenteller und zugleich kritisch-reflektierter Umgang mit Technologien, die unseren Alltag prägen und durchdringen. Wiederkehrende Werkzeuge sind Game Engines, Virtual Production, Spatial Audio, AR/VR und Live-KI.
+Phil Hagen Jungschlaeger ist ein Berliner Digital-Künstler und Creative Technologist an der Schnittstelle von Medienkunst und performativen Medien. Er studierte Medieninformatik an der Bauhaus-Universität Weimar und entwickelt seitdem künstlerische Arbeiten in hybriden Räumen zwischen analoger und digitaler Realität. Im Zentrum seiner Praxis steht ein experimenteller und zugleich kritisch-reflektierter Umgang mit Technologien, die unseren Alltag prägen und durchdringen. Wiederkehrende Werkzeuge sind Game Engines, Virtual Production, Spatial Audio, AR/VR und Live-KI.
 
 Seit 2023 forscht er gemeinsam mit Nils Corte am **XRT** des Staatstheaters Nürnberg an immersiven Theaterformen mit Fokus auf AR/VR – unter anderem in den Produktionen [[Projekte/Symmetrie - Nils Corte (Staatstheater Nürnberg)\|Symmetrie]] (2023) und [[Projekte/Der Bau - Nils Corte, Lena Rucker (Staatstheater Nürnberg)\|Der Bau]] (2024). Mit Ariane Kareev realisiert er an der Deutschen Oper Berlin zeitgenössische Zirkusformate mit neuen Medien, darunter [[Projekte/Immersion - Ariane Kareev (Deutsche Oper Berlin)\|Immersion]] (2024) und [[Projekte/Emersion - Ariane Kareev (Deutsche Oper Berlin)\|Emersion]] (2025). 
 

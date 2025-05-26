@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projekte/das-haus-roman-senkl-burgtheater-wien/","created":"2025-05-25T12:48:37.234+02:00","updated":"2025-05-25T13:31:38.936+02:00"}
+{"dg-publish":true,"permalink":"/projekte/das-haus-roman-senkl-burgtheater-wien/","created":"2025-05-25T12:48:37.234+02:00","updated":"2025-05-26T11:38:05.273+02:00"}
 ---
 
 ## "Das Haus"
@@ -18,5 +18,5 @@ fordert ihren Platz im Stück ihrer Tochter, schließlich stehe sie für Erfolg.
 - Links: 
 	- https://www.burgtheater.at/produktionen/das-haus
  
-![DasHaus.jpeg](/img/user/Attachments/DasHaus.jpeg)
-<div style="text-align: right;">(Bild: Phil Jungschlaeger)</div>
+![DasHausMain.jpeg](/img/user/Attachments/DasHausMain.jpeg)
+<div style="text-align: right;">(Bild: Julian Pache)</div>
