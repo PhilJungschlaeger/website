@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/phil-hagen-jungschlaeger/","tags":["gardenEntry"],"created":"2025-05-26T09:37:39.774+02:00","updated":"2025-05-26T15:18:27.521+02:00"}
+{"dg-publish":true,"permalink":"/phil-hagen-jungschlaeger/","tags":["gardenEntry"],"created":"2025-05-26T09:37:39.774+02:00","updated":"2025-05-26T15:27:59.458+02:00"}
 ---
 
 # Phil Hagen Jungschlaeger
@@ -13,7 +13,6 @@ Zusammen mit Roman Senkl leitet er das transdisziplinäre Cyborg-Kollektiv **Min
 Als Mitgründer des dezentralen Medienkunstkollektivs **Latenter Raum** war er bei Festivals wie **Genius Loci**, der **Blauen Nacht** und dem **Chaos Communication Congress** vertreten.
 
 Er studierte Medieninformatik an der Bauhaus-Universität Weimar und entwickelt seitdem künstlerische Arbeiten in hybriden Räumen zwischen analoger und digitaler Realität. Im Zentrum seiner Praxis steht ein experimenteller und zugleich kritisch-reflektierter Umgang mit Technologien, die unseren Alltag prägen und durchdringen. Wiederkehrende Werkzeuge sind Game Engines, Virtual Production, Spatial Audio, AR/VR und Live-KI. Phil Hagen Jungschlaeger lebt derzeit in Berlin.
-
 # Projekte
 ## 2026
 - 11.06 [[Projekte/Solaris - Roman Senkl (Burgtheater Wien)\|Solaris - Roman Senkl (Burgtheater Wien)]]
