@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projekte/emersion-ariane-kareev-deutsche-oper-berlin/","created":"2025-05-25T12:48:37.241+02:00","updated":"2025-05-25T13:32:03.340+02:00"}
+{"dg-publish":true,"permalink":"/projekte/emersion-ariane-kareev-deutsche-oper-berlin/","created":"2025-05-25T12:48:37.241+02:00","updated":"2025-05-26T10:53:34.900+02:00"}
 ---
 
 # "Emersion"
@@ -12,7 +12,7 @@
 - Regie: Ariane Kareev
 - Form: Oper
 - Spielstätte: [[Venues/Deutsche Oper Berlin\|Deutsche Oper Berlin]] (Tischlerei)
-- Termine: 2025
+- Termine: 11.07.2025
 - Rolle: Creative Coding / Visual Art
 - Technologien: [[Technologien/Touchdesigner\|Touchdesigner]]
 - Links: 

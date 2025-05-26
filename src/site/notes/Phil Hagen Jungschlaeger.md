@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/phil-hagen-jungschlaeger/","tags":["gardenEntry"],"created":"2025-05-26T09:37:39.774+02:00","updated":"2025-05-26T10:41:50.331+02:00"}
+{"dg-publish":true,"permalink":"/phil-hagen-jungschlaeger/","tags":["gardenEntry"],"created":"2025-05-26T09:37:39.774+02:00","updated":"2025-05-26T10:57:16.701+02:00"}
 ---
 
 # Phil Hagen Jungschlaeger
@@ -11,14 +11,17 @@ Seit 2023 forscht er gemeinsam mit Nils Corte am **XRT** des Staatstheaters Nür
 Zusammen mit Roman Senkl leitet er das transdisziplinäre Cyborg-Kollektiv **Minus.Eins**, das sich unter anderem mit Streaming-Formaten im postpandemischen Theaterkontext beschäftigt – etwa in [[Projekte/Hinter Den Zimmern - Roman Senkl (Schauspiel Köln)\|Hinter Den Zimmern]] (2023) am Schauspiel Köln, sowie [[Projekte/Das Haus - Roman Senkl (Burgtheater Wien)\|Das Haus]] (2024) und [[Projekte/Solaris - Roman Senkl (Burgtheater Wien)\|Solaris]] (2026) am Burgtheater Wien. 
 
 Als Mitgründer des dezentralen Medienkunstkollektivs **Latenter Raum** war er bei Festivals wie **Genius Loci**, der **Blauen Nacht** und dem **Chaos Communication Congress** vertreten.
+
 # Projekte
-## Zukünftige
-- [[Projekte/Die Verwandlung des Gregor Samsung - Wilke Weemann (Schauspiel, Stuttgart)\|Die Verwandlung des Gregor Samsung - Wilke Weemann (Schauspiel, Stuttgart)]]
-- [[Projekte/Emersion - Ariane Kareev (Deutsche Oper Berlin)\|Emersion - Ariane Kareev (Deutsche Oper Berlin)]]
-- [[Projekte/Memories of Snow - Roman Senkl (Schauspiel Essen)\|Memories of Snow - Roman Senkl (Schauspiel Essen)]]
-- [[Projekte/Smart Aber Herzlich - Nils Corte (Staatstheater Nürnberg)\|Smart Aber Herzlich - Nils Corte (Staatstheater Nürnberg)]]
-- [[Projekte/Drill Baby Drill - Ariane Kareev (Staatstheater Nürnberg)\|Drill Baby Drill - Ariane Kareev (Staatstheater Nürnberg)]]
-- [[Projekte/Solaris - Roman Senkl (Burgtheater Wien)\|Solaris - Roman Senkl (Burgtheater Wien)]]
+## 2026
+- 11.06 [[Projekte/Solaris - Roman Senkl (Burgtheater Wien)\|Solaris - Roman Senkl (Burgtheater Wien)]]
+- 19.02 [[Projekte/Drill Baby Drill - Ariane Kareev (Staatstheater Nürnberg)\|Drill Baby Drill - Ariane Kareev (Staatstheater Nürnberg)]]
+## 2025
+- 06.12 [[Projekte/Smart Aber Herzlich - Nils Corte (Staatstheater Nürnberg)\|Smart Aber Herzlich - Nils Corte (Staatstheater Nürnberg)]]
+- 10.10 [[Projekte/Memories of Snow - Roman Senkl (Schauspiel Essen)\|Memories of Snow - Roman Senkl (Schauspiel Essen)]]
+- 19.09 [[Projekte/Ich hasse Menschen - Lena Rucker, Nils Corte, Lena Rucker (Theater Altenburg Gera)\|Ich hasse Menschen - Lena Rucker, Nils Corte, Lena Rucker (Theater Altenburg Gera)]]
+- 11.07 [[Projekte/Emersion - Ariane Kareev (Deutsche Oper Berlin)\|Emersion - Ariane Kareev (Deutsche Oper Berlin)]]
+- 28.05 [[Projekte/Die Verwandlung des Gregor Samsung - Wilke Weemann (Schauspiel, Stuttgart)\|Die Verwandlung des Gregor Samsung - Wilke Weemann (Schauspiel, Stuttgart)]]
 ## 2024
 - [[Projekte/Das Haus - Roman Senkl (Burgtheater Wien)\|Das Haus - Roman Senkl (Burgtheater Wien)]]
 - [[Projekte/Der Bau - Nils Corte, Lena Rucker (Staatstheater Nürnberg)\|Der Bau - Nils Corte, Lena Rucker (Staatstheater Nürnberg)]]
