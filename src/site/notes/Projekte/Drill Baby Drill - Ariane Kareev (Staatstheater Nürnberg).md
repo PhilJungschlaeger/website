@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projekte/drill-baby-drill-ariane-kareev-staatstheater-nuernberg/","created":"2025-05-26T10:29:01.016+02:00","updated":"2025-05-26T10:35:28.367+02:00"}
+{"dg-publish":true,"permalink":"/projekte/drill-baby-drill-ariane-kareev-staatstheater-nuernberg/","created":"2025-05-26T10:29:01.016+02:00","updated":"2025-05-26T12:40:48.582+02:00"}
 ---
 
 ## "Drill Baby Drill" 
@@ -11,7 +11,7 @@ Der letzte Tropfen Erdöl ist verbraucht. Eine Geologin, nebenberuflich Bodybuil
 - Form: Theaterstück
 - Spielstätte: [[Venues/Staatstheater Nürnberg\|Staatstheater Nürnberg]] (XRT)
 - Termine: 19.02.2026
-- Rolle: Co-Regie, Creative Technology
+- Rolle: Konzept, Creative Technology
 - Technologien: [[Technologien/Touchdesigner\|Touchdesigner]], [[Technologien/Stream Diffusion\|Stream Diffusion]], Mixed Reality
 - Links:
 	- https://www.staatstheater-nuernberg.de/spielplan-25-26/drill-baby-drill/19-02-2026/1900
