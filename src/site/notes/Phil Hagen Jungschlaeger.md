@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/phil-hagen-jungschlaeger/","tags":["gardenEntry"],"created":"2025-05-26T09:37:39.774+02:00","updated":"2025-05-26T15:12:12.166+02:00"}
+{"dg-publish":true,"permalink":"/phil-hagen-jungschlaeger/","tags":["gardenEntry"],"created":"2025-05-26T09:37:39.774+02:00","updated":"2025-05-26T15:14:09.504+02:00"}
 ---
 
 # Phil Hagen Jungschlaeger
 
-Phil Hagen Jungschlaeger ist ein Digital-Künstler und Creative Technologist an der Schnittstelle von Medienkunst und Theater.  
+Phil Hagen Jungschlaeger ist ein Digital-Künstler und Creative Technologist an der Schnittstelle von Medienkunst, Theater und Oper.  
 
 Seit 2023 forscht er gemeinsam mit Nils Corte am **XRT** des Staatstheaters Nürnberg an immersiven Theaterformen mit Fokus auf AR/VR – unter anderem in den Produktionen [[Projekte/Symmetrie - Nils Corte (Staatstheater Nürnberg)\|Symmetrie]] (2023) und [[Projekte/Der Bau - Nils Corte, Lena Rucker (Staatstheater Nürnberg)\|Der Bau]] (2024). Mit Ariane Kareev realisierte er an der Deutschen Oper Berlin die Techno-Opern-Performances [[Projekte/Immersion - Ariane Kareev (Deutsche Oper Berlin)\|Immersion]] (2024) und [[Projekte/Emersion - Ariane Kareev (Deutsche Oper Berlin)\|Emersion]] (2025) mit neuen Medien.
 
