@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technologien/vive-tracking/","created":"2025-05-25T12:48:37.303+02:00","updated":"2025-05-25T13:33:00.871+02:00"}
+{"dg-publish":true,"permalink":"/technologien/vive-tracking/","created":"2025-05-25T12:48:37.303+02:00","updated":"2025-05-26T10:40:30.493+02:00"}
 ---
 
 # Vive Tracking
@@ -13,3 +13,12 @@ In [[Projekte/Lügen über Alice - Roman Senkl (Berliner Symphoniker)\|Lügen ü
 Die Konsumer Technologie kommt aus dem Bereich Virtual Reality Bereich.
 
 https://www.vive.com/de/accessory/tracker3/
+
+# Linked:
+- [[Technologien/Ableton\|Ableton]]
+- [[Projekte/Lügen über Alice - Roman Senkl (Berliner Symphoniker)\|Lügen über Alice - Roman Senkl (Berliner Symphoniker)]]
+- [[Projekte/Morph It - Xin Peng Wang (Ballett Dortmund)\|Morph It - Xin Peng Wang (Ballett Dortmund)]]
+- [[Technologien/Touchdesigner\|Touchdesigner]]
+- [[Technologien/Unity3D\|Unity3D]]
+
+{ .block-language-dataview}

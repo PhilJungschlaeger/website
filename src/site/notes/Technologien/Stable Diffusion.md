@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technologien/stable-diffusion/","created":"2025-05-25T12:48:37.285+02:00","updated":"2025-05-25T13:32:48.479+02:00"}
+{"dg-publish":true,"permalink":"/technologien/stable-diffusion/","created":"2025-05-25T12:48:37.285+02:00","updated":"2025-05-26T10:41:02.431+02:00"}
 ---
 
 # Stable Diffusion
@@ -13,3 +13,8 @@ In [[Projekte/Lügen über Alice - Roman Senkl (Berliner Symphoniker)\|Lügen ü
 
 https://github.com/AUTOMATIC1111/stable-diffusion-webui
 https://github.com/comfyanonymous/ComfyUI
+
+# Linked:
+- [[Projekte/Lügen über Alice - Roman Senkl (Berliner Symphoniker)\|Lügen über Alice - Roman Senkl (Berliner Symphoniker)]]
+
+{ .block-language-dataview}
