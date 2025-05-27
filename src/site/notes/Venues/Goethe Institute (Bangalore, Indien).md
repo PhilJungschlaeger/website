@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/venues/goethe-institute-bangalore-indien/","created":"2025-05-25T12:48:37.206+02:00","updated":"2025-05-26T10:39:22.517+02:00"}
+{"dg-publish":true,"permalink":"/venues/goethe-institute-bangalore-indien/"}
 ---
 
 ## Goethe Instititute (Bangalore)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projekte/luegen-ueber-alice-roman-senkl-berliner-symphoniker/","created":"2025-05-25T12:48:37.256+02:00","updated":"2025-05-25T13:32:27.035+02:00"}
+{"dg-publish":true,"permalink":"/projekte/luegen-ueber-alice-roman-senkl-berliner-symphoniker/"}
 ---
 
 ## "Lügen über Alice"

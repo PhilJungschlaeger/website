@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technologien/twitch/","created":"2025-05-25T12:48:37.291+02:00","updated":"2025-05-26T10:40:52.090+02:00"}
+{"dg-publish":true,"permalink":"/technologien/twitch/"}
 ---
 
 # Twitch

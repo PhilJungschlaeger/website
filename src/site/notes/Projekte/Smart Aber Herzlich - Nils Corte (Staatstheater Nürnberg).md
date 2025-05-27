@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projekte/smart-aber-herzlich-nils-corte-staatstheater-nuernberg/","created":"2025-05-26T10:24:48.252+02:00","updated":"2025-05-26T10:28:29.823+02:00"}
+{"dg-publish":true,"permalink":"/projekte/smart-aber-herzlich-nils-corte-staatstheater-nuernberg/"}
 ---
 
 ## "Smart Aber Herzlich" 

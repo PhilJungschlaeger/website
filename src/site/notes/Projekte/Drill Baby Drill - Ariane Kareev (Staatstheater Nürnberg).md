@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projekte/drill-baby-drill-ariane-kareev-staatstheater-nuernberg/","created":"2025-05-26T10:29:01.016+02:00","updated":"2025-05-26T12:40:48.582+02:00"}
+{"dg-publish":true,"permalink":"/projekte/drill-baby-drill-ariane-kareev-staatstheater-nuernberg/"}
 ---
 
 ## "Drill Baby Drill" 

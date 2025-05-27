@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projekte/if-we-vanish-nikhil-nagaraj-felix-deufel-goethe-institute-bangalore/","created":"2025-05-25T12:48:37.245+02:00","updated":"2025-05-25T13:32:12.706+02:00"}
+{"dg-publish":true,"permalink":"/projekte/if-we-vanish-nikhil-nagaraj-felix-deufel-goethe-institute-bangalore/"}
 ---
 
 ## "If We Vanish"

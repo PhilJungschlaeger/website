@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projekte/hinter-den-zimmern-roman-senkl-schauspiel-koeln/","created":"2025-05-25T12:48:37.243+02:00","updated":"2025-05-25T13:32:08.938+02:00"}
+{"dg-publish":true,"permalink":"/projekte/hinter-den-zimmern-roman-senkl-schauspiel-koeln/"}
 ---
 
 ## "Hinter Den Zimmern"

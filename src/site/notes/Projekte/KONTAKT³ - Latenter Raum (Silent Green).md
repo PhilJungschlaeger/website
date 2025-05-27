@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projekte/kontakt-latenter-raum-silent-green/","created":"2025-05-25T12:48:37.253+02:00","updated":"2025-05-25T13:32:23.243+02:00"}
+{"dg-publish":true,"permalink":"/projekte/kontakt-latenter-raum-silent-green/"}
 ---
 
 ## "KONTAKT ³" 

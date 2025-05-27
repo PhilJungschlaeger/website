@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projekte/memories-of-snow-roman-senkl-schauspiel-essen/","created":"2025-05-25T12:48:37.259+02:00","updated":"2025-05-26T11:12:15.549+02:00"}
+{"dg-publish":true,"permalink":"/projekte/memories-of-snow-roman-senkl-schauspiel-essen/"}
 ---
 
 ## "Memories of Snow"

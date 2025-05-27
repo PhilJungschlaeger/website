@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projekte/die-verwandlung-des-gregor-samsung-wilke-weemann-schauspiel-stuttgart/","created":"2025-05-26T10:19:14.768+02:00","updated":"2025-05-26T10:23:40.634+02:00"}
+{"dg-publish":true,"permalink":"/projekte/die-verwandlung-des-gregor-samsung-wilke-weemann-schauspiel-stuttgart/"}
 ---
 
 ## "Die Verwandlung des Gregor Samsung"

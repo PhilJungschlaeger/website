@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projekte/solaris-roman-senkl-burgtheater-wien/","created":"2025-05-26T10:12:02.480+02:00","updated":"2025-05-26T10:13:23.587+02:00"}
+{"dg-publish":true,"permalink":"/projekte/solaris-roman-senkl-burgtheater-wien/"}
 ---
 
 ## "Solaris"

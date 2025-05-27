@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technologien/stable-diffusion/","created":"2025-05-25T12:48:37.285+02:00","updated":"2025-05-26T10:41:02.431+02:00"}
+{"dg-publish":true,"permalink":"/technologien/stable-diffusion/"}
 ---
 
 # Stable Diffusion

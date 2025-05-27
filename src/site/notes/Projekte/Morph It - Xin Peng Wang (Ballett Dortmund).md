@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projekte/morph-it-xin-peng-wang-ballett-dortmund/","created":"2025-05-25T12:48:37.261+02:00","updated":"2025-05-25T13:32:30.368+02:00"}
+{"dg-publish":true,"permalink":"/projekte/morph-it-xin-peng-wang-ballett-dortmund/"}
 ---
 
 ## "Morph it"

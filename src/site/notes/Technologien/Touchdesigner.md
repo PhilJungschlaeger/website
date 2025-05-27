@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technologien/touchdesigner/","created":"2025-05-25T12:48:37.289+02:00","updated":"2025-05-26T10:40:54.793+02:00"}
+{"dg-publish":true,"permalink":"/technologien/touchdesigner/"}
 ---
 
 # Touchdesigner
@@ -14,7 +14,7 @@ https://derivative.ca/
 - [[Projekte/Die Verwandlung des Gregor Samsung - Wilke Weemann (Schauspiel, Stuttgart)\|Die Verwandlung des Gregor Samsung - Wilke Weemann (Schauspiel, Stuttgart)]]
 - [[Projekte/Drill Baby Drill - Ariane Kareev (Staatstheater Nürnberg)\|Drill Baby Drill - Ariane Kareev (Staatstheater Nürnberg)]]
 - [[Projekte/Emersion - Ariane Kareev (Deutsche Oper Berlin)\|Emersion - Ariane Kareev (Deutsche Oper Berlin)]]
-- [[Projekte/Ich hasse Menschen - Lena Rucker, Nils Corte, Lena Rucker (Theater Altenburg Gera)\|Ich hasse Menschen - Lena Rucker, Nils Corte, Lena Rucker (Theater Altenburg Gera)]]
+- [[Projekte/Ich hasse Menschen - Lena Rucker, Nils Corte (Theater Altenburg Gera)\|Ich hasse Menschen - Lena Rucker, Nils Corte (Theater Altenburg Gera)]]
 - [[Projekte/Immersion - Ariane Kareev (Deutsche Oper Berlin)\|Immersion - Ariane Kareev (Deutsche Oper Berlin)]]
 - [[Projekte/KONTAKT - Latener Raum (Kunstbienale Schwabach)\|KONTAKT - Latener Raum (Kunstbienale Schwabach)]]
 - [[Projekte/KONTAKT ² - Latenter Raum (37C3, Hamburg)\|KONTAKT ² - Latenter Raum (37C3, Hamburg)]]

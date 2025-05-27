@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projekte/emersion-ariane-kareev-deutsche-oper-berlin/","created":"2025-05-25T12:48:37.241+02:00","updated":"2025-05-26T10:53:34.900+02:00"}
+{"dg-publish":true,"permalink":"/projekte/emersion-ariane-kareev-deutsche-oper-berlin/"}
 ---
 
 # "Emersion"

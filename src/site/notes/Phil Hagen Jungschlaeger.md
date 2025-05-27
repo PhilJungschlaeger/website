@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/phil-hagen-jungschlaeger/","tags":["gardenEntry"],"created":"2025-05-26T09:37:39.774+02:00","updated":"2025-05-26T15:27:59.458+02:00"}
+{"dg-publish":true,"permalink":"/phil-hagen-jungschlaeger/","tags":["gardenEntry"]}
 ---
 
 # Phil Hagen Jungschlaeger
@@ -20,7 +20,7 @@ Er studierte Medieninformatik an der Bauhaus-Universität Weimar und entwickelt 
 ## 2025
 - 06.12 [[Projekte/Smart Aber Herzlich - Nils Corte (Staatstheater Nürnberg)\|Smart Aber Herzlich - Nils Corte (Staatstheater Nürnberg)]]
 - 10.10 [[Projekte/Memories of Snow - Roman Senkl (Schauspiel Essen)\|Memories of Snow - Roman Senkl (Schauspiel Essen)]]
-- 19.09 [[Projekte/Ich hasse Menschen - Lena Rucker, Nils Corte, Lena Rucker (Theater Altenburg Gera)\|Ich hasse Menschen - Lena Rucker, Nils Corte, Lena Rucker (Theater Altenburg Gera)]]
+- 19.09 [[Projekte/Ich hasse Menschen - Lena Rucker, Nils Corte (Theater Altenburg Gera)\|Ich hasse Menschen - Lena Rucker, Nils Corte (Theater Altenburg Gera)]]
 - 11.07 [[Projekte/Emersion - Ariane Kareev (Deutsche Oper Berlin)\|Emersion - Ariane Kareev (Deutsche Oper Berlin)]]
 - 28.05 [[Projekte/Die Verwandlung des Gregor Samsung - Wilke Weemann (Schauspiel, Stuttgart)\|Die Verwandlung des Gregor Samsung - Wilke Weemann (Schauspiel, Stuttgart)]]
 ## 2024

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/venues/burgtheater-wien/","created":"2025-05-25T12:48:37.195+02:00","updated":"2025-05-26T10:38:50.386+02:00"}
+{"dg-publish":true,"permalink":"/venues/burgtheater-wien/"}
 ---
 
 ## Burgtheater Wien

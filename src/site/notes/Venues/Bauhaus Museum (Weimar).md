@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/venues/bauhaus-museum-weimar/","created":"2025-05-25T12:48:37.193+02:00","updated":"2025-05-26T10:38:43.971+02:00"}
+{"dg-publish":true,"permalink":"/venues/bauhaus-museum-weimar/"}
 ---
 
 ## Bauhaus Museum

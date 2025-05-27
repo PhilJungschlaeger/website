@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technologien/unreal-engine/","created":"2025-05-25T12:48:37.296+02:00","updated":"2025-05-26T10:40:43.760+02:00"}
+{"dg-publish":true,"permalink":"/technologien/unreal-engine/"}
 ---
 
 # Unreal Engine

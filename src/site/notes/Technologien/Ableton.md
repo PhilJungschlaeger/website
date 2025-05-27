@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/technologien/ableton/","created":"2025-05-25T12:48:37.276+02:00","updated":"2025-05-26T10:41:14.770+02:00"}
+{"dg-publish":true,"permalink":"/technologien/ableton/"}
 ---
 
 # Ableton

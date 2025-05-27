@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/venues/schloss-broellin/","created":"2025-05-25T12:48:37.214+02:00","updated":"2025-05-26T10:40:03.633+02:00"}
+{"dg-publish":true,"permalink":"/venues/schloss-broellin/"}
 ---
 
 ## Schloss Bröllin

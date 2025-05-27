@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/venues/tarmac-festival-allstedt/","created":"2025-05-25T12:48:37.220+02:00","updated":"2025-05-26T10:40:11.883+02:00"}
+{"dg-publish":true,"permalink":"/venues/tarmac-festival-allstedt/"}
 ---
 
 ## Tarmac Festival, Allstedt

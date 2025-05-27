@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projekte/symmetrie-nils-corte-staatstheater-nuernberg/","created":"2025-05-25T12:48:37.263+02:00","updated":"2025-05-25T13:32:31.988+02:00"}
+{"dg-publish":true,"permalink":"/projekte/symmetrie-nils-corte-staatstheater-nuernberg/"}
 ---
 
 ## "Symmetrie"

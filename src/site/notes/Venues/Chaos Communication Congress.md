@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/venues/chaos-communication-congress/","created":"2025-05-25T12:48:37.199+02:00","updated":"2025-05-26T10:39:11.917+02:00"}
+{"dg-publish":true,"permalink":"/venues/chaos-communication-congress/"}
 ---
 
 ## Chaos Communication Congress

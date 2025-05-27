@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/projekte/coexistence-phil-jungschlaeger-ariane-kareev-tarmac-festival/","created":"2025-05-25T12:48:37.232+02:00","updated":"2025-05-25T13:31:42.512+02:00"}
+{"dg-publish":true,"permalink":"/projekte/coexistence-phil-jungschlaeger-ariane-kareev-tarmac-festival/"}
 ---
 
 ## "Coexistence"
