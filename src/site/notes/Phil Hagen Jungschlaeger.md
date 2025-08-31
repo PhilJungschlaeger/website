@@ -14,13 +14,13 @@ Zusammen mit Roman Senkl leitet er das transdisziplinäre Cyborg-Kollektiv **Min
 
 Als Mitgründer des dezentralen Medienkunstkollektivs **Latenter Raum** war er bei Festivals wie **Genius Loci**, der **Blauen Nacht** und dem **Chaos Communication Congress** vertreten.
 
-Er studierte Medieninformatik an der Bauhaus-Universität Weimar und entwickelt seitdem künstlerische Arbeiten in hybriden Räumen zwischen analoger und digitaler Realität. Im Zentrum seiner Praxis steht ein experimenteller und zugleich kritisch-reflektierter Umgang mit Technologien, die unseren Alltag prägen und durchdringen. Wiederkehrende Werkzeuge sind Game Engines, Virtual Production, Spatial Audio, AR/VR und Live-KI. Phil Hagen Jungschlaeger lebt derzeit in Berlin.
+Er studierte Medieninformatik an der Bauhaus-Universität Weimar und entwickelt seitdem künstlerische Arbeiten in hybriden Räumen zwischen analoger und digitaler Realität. Im Zentrum seiner Praxis steht ein experimenteller und zugleich kritisch-reflektierter Umgang mit Technologien, die unseren Alltag prägen und durchdringen. Wiederkehrende Werkzeuge sind Touchdesigner, Game Engines (Untiy / Unreal), Virtual Production, Spatial Audio, AR/VR und Live-KI. Phil Hagen Jungschlaeger lebt derzeit in Berlin.
 # Projekte
 ## 2026
-- 01. 08 [[Projekte/Götterdämmerung - Marcus Lobbes (Bayreuther Festspiele)\|Götterdämmerung - Marcus Lobbes (Bayreuther Festspiele)]]
-- 30. 07 [[Projekte/Siegfried - Marcus Lobbes (Bayreuther Festspiele)\|Siegfried - Marcus Lobbes (Bayreuther Festspiele)]]
-- 28. 07 [[Projekte/Walküre - Marcus Lobbes (Bayreuther Festspiele)\|Walküre - Marcus Lobbes (Bayreuther Festspiele)]]
-- 27. 07 [[Projekte/Das Rheingold - Marcus Lobbes (Bayreuther Festspiele)\|Das Rheingold - Marcus Lobbes (Bayreuther Festspiele)]]
+- 01.08 [[Projekte/Götterdämmerung - Marcus Lobbes (Bayreuther Festspiele)\|Götterdämmerung - Marcus Lobbes (Bayreuther Festspiele)]]
+- 30.07 [[Projekte/Siegfried - Marcus Lobbes (Bayreuther Festspiele)\|Siegfried - Marcus Lobbes (Bayreuther Festspiele)]]
+- 28.07 [[Projekte/Walküre - Marcus Lobbes (Bayreuther Festspiele)\|Walküre - Marcus Lobbes (Bayreuther Festspiele)]]
+- 27.07 [[Projekte/Das Rheingold - Marcus Lobbes (Bayreuther Festspiele)\|Das Rheingold - Marcus Lobbes (Bayreuther Festspiele)]]
 - 11.06 [[Projekte/Solaris - Roman Senkl (Burgtheater Wien)\|Solaris - Roman Senkl (Burgtheater Wien)]]
 - 19.02 [[Projekte/Drill Baby Drill - Ariane Kareev (Staatstheater Nürnberg)\|Drill Baby Drill - Ariane Kareev (Staatstheater Nürnberg)]]
 ## 2025
