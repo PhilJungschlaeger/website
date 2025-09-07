@@ -27,6 +27,7 @@ Er studierte Medieninformatik an der Bauhaus-Universität Weimar und entwickelt 
 - 06.12 [[Projekte/Smart Aber Herzlich - Nils Corte (Staatstheater Nürnberg)\|Smart Aber Herzlich - Nils Corte (Staatstheater Nürnberg)]]
 - 10.10 [[Projekte/Memories of Snow - Roman Senkl (Schauspiel Essen)\|Memories of Snow - Roman Senkl (Schauspiel Essen)]]
 - 19.09 [[Projekte/Ich hasse Menschen - Lena Rucker, Nils Corte (Theater Altenburg Gera)\|Ich hasse Menschen - Lena Rucker, Nils Corte (Theater Altenburg Gera)]]
+- 04.09 [[Projekte/Encounters At The End Of The World - Phil Jungschlaeger. Ariane Kareev (Tarmac Festival\|Encounters At The End Of The World - Phil Jungschlaeger. Ariane Kareev (Tarmac Festival]]
 - 11.07 [[Projekte/Emersion - Ariane Kareev (Deutsche Oper Berlin)\|Emersion - Ariane Kareev (Deutsche Oper Berlin)]]
 - 28.05 [[Projekte/Die Verwandlung des Gregor Samsung - Wilke Weemann (Schauspiel, Stuttgart)\|Die Verwandlung des Gregor Samsung - Wilke Weemann (Schauspiel, Stuttgart)]]
 ## 2024

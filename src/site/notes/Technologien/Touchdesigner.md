@@ -14,6 +14,7 @@ https://derivative.ca/
 - [[Projekte/Die Verwandlung des Gregor Samsung - Wilke Weemann (Schauspiel, Stuttgart)\|Die Verwandlung des Gregor Samsung - Wilke Weemann (Schauspiel, Stuttgart)]]
 - [[Projekte/Drill Baby Drill - Ariane Kareev (Staatstheater Nürnberg)\|Drill Baby Drill - Ariane Kareev (Staatstheater Nürnberg)]]
 - [[Projekte/Emersion - Ariane Kareev (Deutsche Oper Berlin)\|Emersion - Ariane Kareev (Deutsche Oper Berlin)]]
+- [[Projekte/Encounters At The End Of The World - Phil Jungschlaeger. Ariane Kareev (Tarmac Festival\|Encounters At The End Of The World - Phil Jungschlaeger. Ariane Kareev (Tarmac Festival]]
 - [[Projekte/Ich hasse Menschen - Lena Rucker, Nils Corte (Theater Altenburg Gera)\|Ich hasse Menschen - Lena Rucker, Nils Corte (Theater Altenburg Gera)]]
 - [[Projekte/Immersion - Ariane Kareev (Deutsche Oper Berlin)\|Immersion - Ariane Kareev (Deutsche Oper Berlin)]]
 - [[Projekte/KONTAKT - Latener Raum (Kunstbienale Schwabach)\|KONTAKT - Latener Raum (Kunstbienale Schwabach)]]
