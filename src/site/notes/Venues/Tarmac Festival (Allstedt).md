@@ -9,7 +9,7 @@
 https://tarmac-festival.de/
 # Linked:
 - [[Projekte/Coexistence - Phil Jungschlaeger, Ariane Kareev (Tarmac Festival)\|Coexistence - Phil Jungschlaeger, Ariane Kareev (Tarmac Festival)]]
-- [[Projekte/Encounters At The End Of The World - Phil Jungschlaeger. Ariane Kareev (Tarmac Festival\|Encounters At The End Of The World - Phil Jungschlaeger. Ariane Kareev (Tarmac Festival]]
+- [[Projekte/Encounters At The End Of The World - Phil Jungschlaeger, Ariane Kareev (Tarmac Festival)\|Encounters At The End Of The World - Phil Jungschlaeger, Ariane Kareev (Tarmac Festival)]]
 - [[Projekte/Latenter Raum - Latenter Raum (Tarmac Festival)\|Latenter Raum - Latenter Raum (Tarmac Festival)]]
 
 { .block-language-dataview}

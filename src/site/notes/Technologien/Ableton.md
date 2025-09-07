@@ -9,7 +9,7 @@ Ableton ist eine weitverbreitete DAW, die durch das Clip Grid vor allem live Per
 https://www.ableton.com/
 # Linked:
 - [[Technologien/Bitwig\|Bitwig]]
-- [[Projekte/Encounters At The End Of The World - Phil Jungschlaeger. Ariane Kareev (Tarmac Festival\|Encounters At The End Of The World - Phil Jungschlaeger. Ariane Kareev (Tarmac Festival]]
+- [[Projekte/Encounters At The End Of The World - Phil Jungschlaeger, Ariane Kareev (Tarmac Festival)\|Encounters At The End Of The World - Phil Jungschlaeger, Ariane Kareev (Tarmac Festival)]]
 - [[Projekte/KONTAKT - Latener Raum (Kunstbienale Schwabach)\|KONTAKT - Latener Raum (Kunstbienale Schwabach)]]
 - [[Projekte/KONTAKT ² - Latenter Raum (37C3, Hamburg)\|KONTAKT ² - Latenter Raum (37C3, Hamburg)]]
 - [[Projekte/KONTAKT³ - Latenter Raum (Silent Green)\|KONTAKT³ - Latenter Raum (Silent Green)]]
