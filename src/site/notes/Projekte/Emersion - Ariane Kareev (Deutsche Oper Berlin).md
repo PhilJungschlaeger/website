@@ -7,7 +7,7 @@
 *Eine Performance mit Oper, Drag, Artistik, Visuals und Techno*
 
 ![Still_FloorSolo 2025-07-11 133043_1.7.1.png](/img/user/Attachments/Still_FloorSolo%202025-07-11%20133043_1.7.1.png)
-![Emersion_Brutalism.png](/img/user/Emersion_Brutalism.png)
+![Emersion_Brutalism.png](/img/user/Attachments/Emersion_Brutalism.png)
 ![Still_Opening_ 2025-07-11 130410_1.1.1_1.1.2.png](/img/user/Attachments/Still_Opening_%202025-07-11%20130410_1.1.1_1.1.2.png)
 <div style="text-align: right;">(Foto:  @nono_Visuals)</div>
 - Regie: Ariane Kareev
