@@ -15,21 +15,21 @@ Zusammen mit Roman Senkl leitet er das transdisziplinäre Cyborg-Kollektiv **Min
 Als Mitgründer des dezentralen Medienkunstkollektivs **Latenter Raum** war er bei Festivals wie **Genius Loci**, der **Blauen Nacht** und dem **Chaos Communication Congress** vertreten.
 
 Er studierte Medieninformatik an der Bauhaus-Universität Weimar und entwickelt seitdem künstlerische Arbeiten in hybriden Räumen zwischen analoger und digitaler Realität. Im Zentrum seiner Praxis steht ein experimenteller und zugleich kritisch-reflektierter Umgang mit Technologien, die unseren Alltag prägen und durchdringen. Wiederkehrende Werkzeuge sind Touchdesigner, Game Engines (Untiy / Unreal), Virtual Production, Spatial Audio, AR/VR und Live-KI. Phil Hagen Jungschlaeger lebt derzeit in Berlin.
-# Projekte
-## 2026
-- 01.08 [[Projekte/Götterdämmerung - Marcus Lobbes (Bayreuther Festspiele)\|Götterdämmerung - Marcus Lobbes (Bayreuther Festspiele)]]
-- 30.07 [[Projekte/Siegfried - Marcus Lobbes (Bayreuther Festspiele)\|Siegfried - Marcus Lobbes (Bayreuther Festspiele)]]
-- 28.07 [[Projekte/Walküre - Marcus Lobbes (Bayreuther Festspiele)\|Walküre - Marcus Lobbes (Bayreuther Festspiele)]]
-- 27.07 [[Projekte/Das Rheingold - Marcus Lobbes (Bayreuther Festspiele)\|Das Rheingold - Marcus Lobbes (Bayreuther Festspiele)]]
-- 11.06 [[Projekte/Solaris - Roman Senkl (Burgtheater Wien)\|Solaris - Roman Senkl (Burgtheater Wien)]]
-- 19.02 [[Projekte/Drill Baby Drill - Ariane Kareev (Staatstheater Nürnberg)\|Drill Baby Drill - Ariane Kareev (Staatstheater Nürnberg)]]
+# Projekte 
+## Bevorstehend
+- 06.12.25 [[Projekte/Smart Aber Herzlich - Nils Corte (Staatstheater Nürnberg)\|Smart Aber Herzlich - Nils Corte (Staatstheater Nürnberg)]]
+- 19.02.26 [[Projekte/Drill Baby Drill - Ariane Kareev (Staatstheater Nürnberg)\|Drill Baby Drill - Ariane Kareev (Staatstheater Nürnberg)]]
+- 11.06.26 [[Projekte/Solaris - Roman Senkl (Burgtheater Wien)\|Solaris - Roman Senkl (Burgtheater Wien)]]
+- 27.07.26 [[Projekte/Das Rheingold - Marcus Lobbes (Bayreuther Festspiele)\|Das Rheingold - Marcus Lobbes (Bayreuther Festspiele)]]
+- 28.07.26 [[Projekte/Walküre - Marcus Lobbes (Bayreuther Festspiele)\|Walküre - Marcus Lobbes (Bayreuther Festspiele)]]
+- 30.07.26 [[Projekte/Siegfried - Marcus Lobbes (Bayreuther Festspiele)\|Siegfried - Marcus Lobbes (Bayreuther Festspiele)]]
+- 01.08.26 [[Projekte/Götterdämmerung - Marcus Lobbes (Bayreuther Festspiele)\|Götterdämmerung - Marcus Lobbes (Bayreuther Festspiele)]]
 ## 2025
-- 06.12 [[Projekte/Smart Aber Herzlich - Nils Corte (Staatstheater Nürnberg)\|Smart Aber Herzlich - Nils Corte (Staatstheater Nürnberg)]]
-- 10.10 [[Projekte/Memories of Snow - Roman Senkl (Schauspiel Essen)\|Memories of Snow - Roman Senkl (Schauspiel Essen)]]
-- 19.09 [[Projekte/Ich hasse Menschen - Lena Rucker, Nils Corte (Theater Altenburg Gera)\|Ich hasse Menschen - Lena Rucker, Nils Corte (Theater Altenburg Gera)]]
-- 04.09 [[Projekte/Encounters At The End Of The World - Phil Jungschlaeger, Ariane Kareev (Tarmac Festival)\|Encounters At The End Of The World - Phil Jungschlaeger, Ariane Kareev (Tarmac Festival)]]
-- 11.07 [[Projekte/Emersion - Ariane Kareev (Deutsche Oper Berlin)\|Emersion - Ariane Kareev (Deutsche Oper Berlin)]]
-- 28.05 [[Projekte/Die Verwandlung des Gregor Samsung - Wilke Weemann (Schauspiel, Stuttgart)\|Die Verwandlung des Gregor Samsung - Wilke Weemann (Schauspiel, Stuttgart)]]
+- 10.10.25 [[Projekte/Memories of Snow - Roman Senkl (Schauspiel Essen)\|Memories of Snow - Roman Senkl (Schauspiel Essen)]]
+- 19.09.25 [[Projekte/Ich hasse Menschen - Lena Rucker, Nils Corte (Theater Altenburg Gera)\|Ich hasse Menschen - Lena Rucker, Nils Corte (Theater Altenburg Gera)]]
+- 04.09.25 [[Projekte/Encounters At The End Of The World - Phil Jungschlaeger, Ariane Kareev (Tarmac Festival)\|Encounters At The End Of The World - Phil Jungschlaeger, Ariane Kareev (Tarmac Festival)]]
+- 11.07.25 [[Projekte/Emersion - Ariane Kareev (Deutsche Oper Berlin)\|Emersion - Ariane Kareev (Deutsche Oper Berlin)]]
+- 28.05.25 [[Projekte/Die Verwandlung des Gregor Samsung - Wilke Weemann (Schauspiel, Stuttgart)\|Die Verwandlung des Gregor Samsung - Wilke Weemann (Schauspiel, Stuttgart)]]
 ## 2024
 - [[Projekte/Das Haus - Roman Senkl (Burgtheater Wien)\|Das Haus - Roman Senkl (Burgtheater Wien)]]
 - [[Projekte/Der Bau - Nils Corte, Lena Rucker (Staatstheater Nürnberg)\|Der Bau - Nils Corte, Lena Rucker (Staatstheater Nürnberg)]]

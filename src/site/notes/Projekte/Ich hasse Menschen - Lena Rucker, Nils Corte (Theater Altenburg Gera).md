@@ -3,6 +3,8 @@
 ---
 
 ## "Ich hasse Menschen" 
+![kp-hassemenschen-18_ Ronny Ristok_3.jpg](/img/user/Attachments/kp-hassemenschen-18_%20Ronny%20Ristok_3.jpg)
+ <div style="text-align: right;">(Foto:  Ronny Ristok, Theater Gera)</div>
 
 „Ich stelle mir einen Menschen als eine rosa  
 Ansammlung sensorischer Informationen vor.”  
@@ -16,6 +18,10 @@ Währenddessen streamt WLAN-Router Conny, der unscheinbarste Mitbewohner der WG,
   
 Die Sitcom _Ich hasse Menschen_ wirft einen exklusiven Blick in eine Zukunft, in der Chatbots über den beruflichen Werdegang entscheiden und der Kühlschrank auf die Linie achtet – ob man will oder nicht. Erleben Sie die Entstehung einer Superintelligenz und seien Sie dabei, wenn sich – wie jeden Abend wieder – das Schicksal unseres Planeten  
 entscheidet.
+![hp-hassemenschen_ Ronny Ristok_1.jpg](/img/user/Attachments/hp-hassemenschen_%20Ronny%20Ristok_1.jpg)
+![hp-hassemenschen_Ronny Ristok_2.jpg](/img/user/Attachments/hp-hassemenschen_Ronny%20Ristok_2.jpg)
+
+<div style="text-align: right;">(Fotos:  Ronny Ristok, Theater Gera)</div>
 
 - Regie: Lena Rucker / Nils Corte 
 - Form: Theaterstück

@@ -3,16 +3,22 @@
 ---
 
 ## "Memories of Snow"
+![Memories_of_Snow_DSF3719_Lukas_Zander.jpg](/img/user/Attachments/Memories_of_Snow_DSF3719_Lukas_Zander.jpg)
+<div style="text-align: right;">(Foto:  Lukas Zander, Theater Essen)</div>
 
 „In der Woche, als sie 18 wurde, hat meine Mutter zum letzten Mal Schnee gesehen. An meinem eigenen 18. Geburtstag hat sie eine Überraschungsparty organisiert, alle Ventilatoren, die sie auftreiben konnte wirbelten Papierschnee durch die Luft. Der Dress-Code lautete: „0 Grad“, aber nach einer Stunde Tanzen waren wir alle klatschnass, haben die Skianzüge ausgezogen und sind in den See gesprungen.“
 
-  
 Die Autorin Teona Galgoţiu und der Regisseur, Autor und Digitalkünstler Roman Senkl nehmen ihr Publikum mit an einen Ort und seine Erinnerungen. Hier wurde scheinbar ergeben auf die Apokalypse gewartet. Die poetisch- surreale Welt ist sehr anders als unser Alltag, hat aber immer wieder erschreckende Parallelen zu unserer Welt. Mit großer sprachlicher wie imaginativer Kraft wird das Ende der Welt anhand einer ganz konkreten Familie und ihrer Fragen spielerisch erfahrbar.  
   
 Das Theaterkollektiv minus.eins.labs rund um Roman Senkl übersetzt humorvoll und berührend verschiedene Texte über Generationenkonflikte, die Klimakrise, die Angst vor Veränderung und die Hoffnung auf ein ehrliches Zulassen von Gefühlen in eine hybride Rauminstallation. In dieser kann das Publikum seinen je eigenen Weg durch analoge wie digitale Räume finden, die ganz unsentimental Verschwinden und Verlust erfahrbar machen und zugleich von der grundsätzlichen Möglichkeit zum Neuanfang jenseits des Anthropozäns berichten.  
-_Gefördert von der Brost-Stiftung_
 
-- Regie: Roman Senkl
+_Gefördert von der Brost-Stiftung_
+ ![MemoriesOfSnow_Birthday.png](/img/user/Attachments/MemoriesOfSnow_Birthday.png)
+![MemoriesOfSnow_ChildRoom.png](/img/user/Attachments/MemoriesOfSnow_ChildRoom.png)
+![MemoriesOfSnow_Apartment.png](/img/user/Attachments/MemoriesOfSnow_Apartment.png)
+<div style="text-align: right;">(Screenshots:  Phil Jungschlaeger)</div>
+
+- Regie: Roman Senkl, Phil Jungschaleger, Philip Bußmann
 - Text: Teona Galgoțiu
 - Form: Theatrale Installation
 - Spielstätte: [[Venues/Schauspiel Essen\|Schauspiel Essen]]
