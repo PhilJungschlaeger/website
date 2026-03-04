@@ -15,7 +15,7 @@ Zusammen mit Roman Senkl leitet er das transdisziplinäre Cyborg-Kollektiv **Min
 Als Mitgründer des dezentralen Medienkunstkollektivs **Latenter Raum** war er bei Festivals wie **Genius Loci**, der **Blauen Nacht** und dem **Chaos Communication Congress** vertreten.
 
 Er studierte Medieninformatik an der Bauhaus-Universität Weimar und entwickelt seitdem künstlerische Arbeiten in hybriden Räumen zwischen analoger und digitaler Realität. Im Zentrum seiner Praxis steht ein experimenteller und zugleich kritisch-reflektierter Umgang mit Technologien, die unseren Alltag prägen und durchdringen. Wiederkehrende Werkzeuge sind Touchdesigner, Game Engines (Untiy / Unreal), Virtual Production, Spatial Audio, AR/VR und Live-KI. Phil Hagen Jungschlaeger lebt derzeit in Berlin.
-# Projekte 
+# Produktionen
 - 06.12.25 [[Projekte/Smart Aber Herzlich - Nils Corte (Staatstheater Nürnberg)\|Smart Aber Herzlich - Nils Corte (Staatstheater Nürnberg)]]
 - 19.02.26 [[Projekte/Drill Baby Drill - Ariane Kareev (Staatstheater Nürnberg)\|Drill Baby Drill - Ariane Kareev (Staatstheater Nürnberg)]]
 - 11.06.26 [[Projekte/Solaris - Roman Senkl (Burgtheater Wien)\|Solaris - Roman Senkl (Burgtheater Wien)]]
