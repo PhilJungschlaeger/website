@@ -12,7 +12,7 @@ Der Psychologe Kris Kelvin wird zur Unterstützung einer Mission auf die Raumsta
 - Spielstätte: [[Venues/Burgtheater Wien\|Burgtheater Wien]] im Kasino
 - Termine: 11.06.2026
 - Rolle: Creative Technology
-- Technologien: [[Technologien/Virtual Production\|Virtual Production]], [[Technologien/Touchdesigner\|Touchdesigner]], [[Technologien/Unreal Engine\|Unreal Engine]], [[Technologien/Stream Diffusion\|Stream Diffusion]], [[Technologien/Twitch\|Twitch]]
+- Technologien:  [[Technologien/Touchdesigner\|Touchdesigner]], [[Technologien/EEG\|EEG]], [[Technologien/Unreal Engine\|Unreal Engine]], [[Technologien/Stream Diffusion\|Stream Diffusion]], [[Technologien/Twitch\|Twitch]]
 - Links: 
 	- https://www.burgtheater.at/produktionen/solaris
  
