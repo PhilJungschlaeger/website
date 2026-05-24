@@ -23,6 +23,10 @@ Er studierte Medieninformatik an der Bauhaus-Universität Weimar und entwickelt 
 - 28.07.26 [[Projekte/Walküre - Marcus Lobbes (Bayreuther Festspiele)\|Walküre - Marcus Lobbes (Bayreuther Festspiele)]]
 - 30.07.26 [[Projekte/Siegfried - Marcus Lobbes (Bayreuther Festspiele)\|Siegfried - Marcus Lobbes (Bayreuther Festspiele)]]
 - 01.08.26 [[Projekte/Götterdämmerung - Marcus Lobbes (Bayreuther Festspiele)\|Götterdämmerung - Marcus Lobbes (Bayreuther Festspiele)]]
+- 19.11.26 Die heilige Johanna der Schlachthöfe - Ariane Kareev (Theater Dortmund)
+- 16.04.27 Parasocial Activity - Wilke Weermann, Nils Corte (Staatstheater Nürnberg)
+- 23.05.27 This is absolutely normal and nobody is concerned - Ariane Kareev (  
+Elbphilharmonie, Hamburg)
 ## 2025
 - 06.12 [[Projekte/Smart Aber Herzlich - Nils Corte (Staatstheater Nürnberg)\|Smart Aber Herzlich - Nils Corte (Staatstheater Nürnberg)]]
 - 10.10 [[Projekte/Memories of Snow - Roman Senkl (Schauspiel Essen)\|Memories of Snow - Roman Senkl (Schauspiel Essen)]]
