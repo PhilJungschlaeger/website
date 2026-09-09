@@ -27,4 +27,4 @@ Die Sänger*innen stehen im Zentrum der Aufführung, in ruhiger, fast skulptural
 - Rolle: Creative Code / Visual Art
 - Technologien: [[Live AI\|Live AI]] 
 - Links: 
-	- https://www.bayreuther-festspiele.de/programm/auffuehrungen/das-rheingold/
+	- https://www.bayreuther-festspiele.de/fsdb/inszenierungen/das-rheingold/2026/
