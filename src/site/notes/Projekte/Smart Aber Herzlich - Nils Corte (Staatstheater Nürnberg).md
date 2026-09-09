@@ -5,7 +5,7 @@
 ## "Smart Aber Herzlich" 
 
 
-![Smart_aber_herzlich_12.jpg](/img/user/Smart_aber_herzlich_12.jpg)
+![Smart_aber_herzlich_12.jpg](/img/user/Attachments/Smart_aber_herzlich_12.jpg)
 <div style="text-align: right;">(Bild: Konrad Fersterer)</div>
 
 
