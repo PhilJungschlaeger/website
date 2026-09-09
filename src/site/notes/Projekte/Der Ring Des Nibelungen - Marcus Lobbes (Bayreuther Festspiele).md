@@ -18,6 +18,7 @@ Die Sänger*innen stehen im Zentrum der Aufführung, in ruhiger, fast skulptural
 
 ![DER-RING-DES-NIBELUNGEN-12.jpg](/img/user/Attachments/DER-RING-DES-NIBELUNGEN-12.jpg)
 <div style="text-align: right;">(Bild: Wolf Gutjahr)</div>
+
 - Musikalische Leitung: [Christian Thielemann](https://www.bayreuther-festspiele.de/fsdb/mitwirkende/christian-thielemann/)
 - Kurator: [Marcus Lobbes](https://www.bayreuther-festspiele.de/fsdb/mitwirkende/marcus-lobbes/)
 - Form: Oper
