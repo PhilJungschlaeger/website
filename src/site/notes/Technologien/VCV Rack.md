@@ -11,7 +11,7 @@ https://vcvrack.com/
 - [[Technologien/Ableton\|Ableton]]
 - [[Technologien/Bitwig\|Bitwig]]
 - [[Projekte/KONTAKT ² - Latenter Raum (37C3, Hamburg)\|KONTAKT ² - Latenter Raum (37C3, Hamburg)]]
-- [[Projekte/KONTAKT³ - Latenter Raum (Silent Green)\|KONTAKT³ - Latenter Raum (Silent Green)]]
+- [[Projekte/KONTAKT³ - Latenter Raum (Silent Green, Berlin)\|KONTAKT³ - Latenter Raum (Silent Green, Berlin)]]
 - [[Technologien/Touchdesigner\|Touchdesigner]]
 
 { .block-language-dataview}

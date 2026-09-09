@@ -5,6 +5,6 @@
 ## Silent Green
 https://www.silent-green.net/
 # Linked:
-- [[Projekte/KONTAKT³ - Latenter Raum (Silent Green)\|KONTAKT³ - Latenter Raum (Silent Green)]]
+- [[Projekte/KONTAKT³ - Latenter Raum (Silent Green, Berlin)\|KONTAKT³ - Latenter Raum (Silent Green, Berlin)]]
 
 { .block-language-dataview}

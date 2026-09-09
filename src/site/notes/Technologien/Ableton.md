@@ -12,7 +12,7 @@ https://www.ableton.com/
 - [[Projekte/Encounters At The End Of The World - Phil Jungschlaeger, Ariane Kareev (Tarmac Festival)\|Encounters At The End Of The World - Phil Jungschlaeger, Ariane Kareev (Tarmac Festival)]]
 - [[Projekte/KONTAKT - Latener Raum (Kunstbienale Schwabach)\|KONTAKT - Latener Raum (Kunstbienale Schwabach)]]
 - [[Projekte/KONTAKT ² - Latenter Raum (37C3, Hamburg)\|KONTAKT ² - Latenter Raum (37C3, Hamburg)]]
-- [[Projekte/KONTAKT³ - Latenter Raum (Silent Green)\|KONTAKT³ - Latenter Raum (Silent Green)]]
+- [[Projekte/KONTAKT³ - Latenter Raum (Silent Green, Berlin)\|KONTAKT³ - Latenter Raum (Silent Green, Berlin)]]
 - [[Technologien/VCV Rack\|VCV Rack]]
 - [[Technologien/Vive Tracking\|Vive Tracking]]
 

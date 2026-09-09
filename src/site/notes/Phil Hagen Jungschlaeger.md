@@ -38,11 +38,11 @@ Elbphilharmonie, Hamburg)
 - [[Projekte/Coexistence - Phil Jungschlaeger, Ariane Kareev (Tarmac Festival)\|Coexistence - Phil Jungschlaeger, Ariane Kareev (Tarmac Festival)]]
 - [[Projekte/Workshop Touchdesigner (Staatstheater Nürnberg)\|Workshop Touchdesigner (Staatstheater Nürnberg)]]
 - [[Projekte/Wonderland - Roman Senkl (Staatstheater Nürnberg)\|Wonderland - Roman Senkl (Staatstheater Nürnberg)]]
-- [[Projekte/KONTAKT³ - Latenter Raum (Silent Green)\|KONTAKT³ - Latenter Raum (Silent Green)]]
+- [[Projekte/KONTAKT³ - Latenter Raum (Silent Green, Berlin)\|KONTAKT³ - Latenter Raum (Silent Green, Berlin)]]
 ## 2023
 - [[Projekte/KONTAKT ² - Latenter Raum (37C3, Hamburg)\|KONTAKT ² - Latenter Raum (37C3, Hamburg)]]
 - [[Projekte/Symmetrie - Nils Corte (Staatstheater Nürnberg)\|Symmetrie - Nils Corte (Staatstheater Nürnberg)]]
-- [[Projekte/Lügen über Alice - Roman Senkl (Berliner Symphoniker)\|Lügen über Alice - Roman Senkl (Berliner Symphoniker)]]
+- [[Projekte/Lügen über Alice - Roman Senkl (Berliner Symphoniker, Berlin)\|Lügen über Alice - Roman Senkl (Berliner Symphoniker, Berlin)]]
 - [[Projekte/Deep.Redux - Latenter Raum (Bauhaus Museum, Weimar)\|Deep.Redux - Latenter Raum (Bauhaus Museum, Weimar)]]
 - [[Projekte/Latenter Raum - Latenter Raum (Tarmac Festival)\|Latenter Raum - Latenter Raum (Tarmac Festival)]]
 - [[Projekte/KONTAKT - Latener Raum (Kunstbienale Schwabach)\|KONTAKT - Latener Raum (Kunstbienale Schwabach)]]

@@ -29,4 +29,4 @@ Die Installation in der Franzosenkirche eröffnet den Besucher:innen die Möglic
 # Zusatz:
 Die Installation wurde in folgenden Kontexten weiterentwickelt:
 - [[Projekte/KONTAKT ² - Latenter Raum (37C3, Hamburg)\|KONTAKT ² - Latenter Raum (37C3, Hamburg)]]
-- [[Projekte/KONTAKT³ - Latenter Raum (Silent Green)\|KONTAKT³ - Latenter Raum (Silent Green)]]
+- [[Projekte/KONTAKT³ - Latenter Raum (Silent Green, Berlin)\|KONTAKT³ - Latenter Raum (Silent Green, Berlin)]]
