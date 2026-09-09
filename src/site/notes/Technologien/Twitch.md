@@ -11,6 +11,5 @@ https://www.twitch.tv/
 - [[Projekte/Das Haus - Roman Senkl (Burgtheater Wien)\|Das Haus - Roman Senkl (Burgtheater Wien)]]
 - [[Projekte/Hinter Den Zimmern - Roman Senkl (Schauspiel Köln)\|Hinter Den Zimmern - Roman Senkl (Schauspiel Köln)]]
 - [[Projekte/Smart Aber Herzlich - Nils Corte (Staatstheater Nürnberg)\|Smart Aber Herzlich - Nils Corte (Staatstheater Nürnberg)]]
-- [[Projekte/Solaris - Roman Senkl (Burgtheater Wien)\|Solaris - Roman Senkl (Burgtheater Wien)]]
 
 { .block-language-dataview}
